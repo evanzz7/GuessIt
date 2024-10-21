@@ -1,5 +1,5 @@
 # GuessIt
-Simple python number guessing game
+Simple python number guessing game from 1 to 1000
 
 
 ## Contact
